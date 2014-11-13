@@ -1,5 +1,6 @@
 Drinkuino
 =========
+Más información en: http://protoinformatico.com/arduino-drinkuino-project/ 
 
 LICENCIA:
 *
